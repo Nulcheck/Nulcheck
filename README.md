@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on absolutely nothing
 - 📫 How to reach me: ... you don't
 - 🕹 My friends and I are *trying* to make our own video games. I'm trying my best god dammit, but life/*financial* stuff keeps getting in the way and it's taking too god damn long.. Anyways, we're starting a company called `Xendric Interactive`.
-- ⛏ I use to make minecraft mods, but it takes too much time and gets me knowhere. So I've been focusing my time on game development.
+- ⛏ I use to make minecraft mods, but it takes too much time and gets me nowhere. So I've been focusing my time on game development.
 - 💬 I also made a discord bot, but again, it takes awhile. They also did lots of changes so I pretty much have to rewrite the bot, and haven't had time.
 
 
